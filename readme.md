@@ -43,7 +43,7 @@ I enjoy making software so much! Please, if you see any issues make them known!
 ## Preview
 
 ### Homepage
-![screenshot](readme/index%20.jpg)
+![screenshot](readme/index.jpg)
 
 ### Signup Page
 ![screenshot](readme/signup.jpg)
