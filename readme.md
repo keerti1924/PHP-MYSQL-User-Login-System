@@ -1,5 +1,5 @@
 
-# PHP MySQL User Signup Login System
+# <h1 style="color:blue;">PHP MySQL User Signup Login System</h1>
 
 A login and signup form using HTML, PHP, and MySQL. This form allows users to register and login. 
 All information is stored in a MySQL database. After successful login the user is redirected to their dashboard.
@@ -9,7 +9,7 @@ I enjoy making software so much! Please, if you see any issues make them known!
 - `HTML`
 - `CSS`
 - `JavaScript`
-- `Bootstrap`
+- `Bootstrap5`
 - `PHP`
 - `MySQL`
 
@@ -20,6 +20,7 @@ I enjoy making software so much! Please, if you see any issues make them known!
 - *index.php* -- The main page showed before login.
 - *login.php* -- Login Page.
 - *signup.php* -- Signup Page.
+- *edit.php* -- Edit your profile.
 - *logout.php* -- Logout to the dashboard page.
 
 ## Features
